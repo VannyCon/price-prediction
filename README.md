@@ -13,7 +13,7 @@ This Function Perform the Simulation
 
 # Installation
 Clone the Repository:
-`git clone https://github.com/VannyCon/pdo.git`
+`git clone https://github.com/VannyCon/price-prediction.git`
 
 
 Navigate to the Project Directory:
