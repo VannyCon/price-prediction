@@ -17,7 +17,7 @@ Clone the Repository:
 
 
 Navigate to the Project Directory:
-`cd pos-system`
+`cd price-prediction`
 
 ## Note
 This project utilizes a Monte Carlo algorithm to determine product values, with a broader goal of assisting small stores in managing their inventory.
